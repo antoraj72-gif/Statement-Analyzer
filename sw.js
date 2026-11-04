@@ -1,7 +1,7 @@
-/* Statement Analyzer offline cache – version 298b9354716e
+/* Statement Analyzer offline cache – version 66d43dfe6620
    First visit stores the app on the device; later it opens instantly, even with no internet.
    When a newer Statement Analyzer is uploaded, it is fetched quietly and used from the next launch. */
-const CACHE = 'statement-analyzer-298b9354716e';
+const CACHE = 'statement-analyzer-66d43dfe6620';
 // Only the small files are stored at install, so the phone can offer "Install app" straight away.
 // The big app page is stored right after, in the background.
 const SMALL = ['manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png', 'favicon-64.png'];

@@ -2,7 +2,7 @@
  "name": "Statement Analyzer",
  "short_name": "Statement Analyzer",
  "description": "Your private bank & credit-card statement analyser",
- "id": "./",
+ "id": "/Statement-Analyzer/",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
